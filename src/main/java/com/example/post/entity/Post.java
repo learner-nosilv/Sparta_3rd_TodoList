@@ -1,4 +1,4 @@
-package com.example.projecttodo.entity;
+package com.example.post.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -10,17 +10,17 @@ import lombok.NoArgsConstructor;
 @Getter
 @Entity
 @NoArgsConstructor
-public class Memo {
-    // Id 자동생성 - JPA 가 다 해줌
+public class Post {
+
+    // Id는 자동 생성
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String content;
 
-    public Memo(String content) {
-        this.content = content;
-    }
+    private String title;       // 글 제목
+    private String content;     // 글 내용
 
-    public void update(String content) {
+    public Post(String title, String content){
+        this.title = title;
         this.content = content;
     }
 }

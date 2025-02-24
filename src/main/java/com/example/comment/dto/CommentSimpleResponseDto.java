@@ -1,17 +1,14 @@
-package com.example.projecttodo.dto;
+package com.example.comment.dto;
 
 import lombok.Getter;
 
 @Getter
-
-public class MemoResponseDto {
+public class CommentSimpleResponseDto {
     private final Long id;
     private final String content;
 
-    public MemoResponseDto(Long id, String content) {
+    public CommentSimpleResponseDto(Long id, String content) {
         this.id = id;
         this.content = content;
     }
 }
-
-
