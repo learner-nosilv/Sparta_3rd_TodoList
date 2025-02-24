@@ -44,8 +44,8 @@ public class TodoService {
                     todo.getId(),
                     todo.getContent()
             ));
-            return dtos;
         }
+        return dtos;
     }
 
     @Transactional
