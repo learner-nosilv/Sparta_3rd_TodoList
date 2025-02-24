@@ -1,4 +1,4 @@
-package com.example.common.config.consts;
+package com.example.common.consts;
 
 public abstract class Const {
     // abstract 를 쓰는 이유는 new 로 객체가 되는 것을 방지하기 위함

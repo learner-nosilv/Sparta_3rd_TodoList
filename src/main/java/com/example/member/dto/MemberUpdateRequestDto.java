@@ -1,4 +1,8 @@
 package com.example.member.dto;
 
-public class MemberSaveRequestDto {
+import lombok.Getter;
+
+@Getter
+public class MemberUpdateRequestDto {
+    private String email;
 }
