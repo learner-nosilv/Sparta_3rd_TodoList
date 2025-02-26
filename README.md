@@ -1,8 +1,1 @@
-### 테스트 사진
-![1](https://github.com/learner-nosilv/Sparta_3rd_TodoList/blob/7ea97a1b047d2387feae440f1488217941fdbf6c/img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-02-24%20%EC%98%A4%ED%9B%84%203.25.43.png)
 
-![스크린샷 2025-02-24 오후 3.25.43.png](https://github.com/learner-nosilv/Sparta_3rd_TodoList/blob/7ea97a1b047d2387feae440f1488217941fdbf6c/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-02-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.25.43.png)
-![스크린샷 2025-02-24 오후 3.26.31.png](https://github.com/learner-nosilv/Sparta_3rd_TodoList/blob/7ea97a1b047d2387feae440f1488217941fdbf6c/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-02-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.26.31.png)
-![스크린샷 2025-02-24 오후 3.26.44.png](https://github.com/learner-nosilv/Sparta_3rd_TodoList/blob/7ea97a1b047d2387feae440f1488217941fdbf6c/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-02-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.26.44.png)
-![스크린샷 2025-02-24 오후 3.29.15.png](https://github.com/learner-nosilv/Sparta_3rd_TodoList/blob/7ea97a1b047d2387feae440f1488217941fdbf6c/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-02-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.29.15.png)
-![스크린샷 2025-02-24 오후 3.30.03.png](https://github.com/learner-nosilv/Sparta_3rd_TodoList/blob/7ea97a1b047d2387feae440f1488217941fdbf6c/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-02-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.30.03.png)
